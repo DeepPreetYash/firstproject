@@ -4,4 +4,6 @@
 
 # made some changes
 
-# editing this file from github to pull the request
+# editing this file from github to pull the 
+#using git gui to coomit and push
+
